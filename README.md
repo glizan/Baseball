@@ -1,5 +1,7 @@
 # Baseball
 react-native baseball live game viewer
+This App was made with no documention from MLB so the JSON data was all reverse engineered
+
 
 v 0.3.0 - Added live Pitch data and live Current play data
 
